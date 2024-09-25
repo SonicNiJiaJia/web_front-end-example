@@ -68,3 +68,43 @@ body {
     /* 陰影 */
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
+
+.wrapper .btn1 {
+    width: 50rem;
+    padding: 3%;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
+    border: 1px solid #51515130;
+    border-radius: .3rem;
+    transition: all .5s;
+    background-color: aqua;
+}
+
+.wrapper .btn2 {
+    width: 50rem;
+    padding: 3%;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
+    border: 1px solid #51515130;
+    border-radius: .3rem;
+    transition: all .5s;
+    background-color: rgb(35, 173, 84);
+}
+
+.wrapper .btn3 {
+    width: 50rem;
+    padding: 3%;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
+    border: 1px solid #51515130;
+    border-radius: .3rem;
+    transition: all .5s;
+    background-color: rgb(236, 200, 55);
+}
+
+.wrapper .btn4 {
+    width: 50rem;
+    padding: 3%;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
+    border: 1px solid #51515130;
+    border-radius: .3rem;
+    transition: all .5s;
+    background-color: rgb(174, 12, 255);
+}
